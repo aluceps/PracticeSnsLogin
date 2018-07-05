@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeSnsLogin</string>
+
+    <string name="twitter_app_key"></string>
+    <string name="twitter_app_secret"></string>
+
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+</resources>
